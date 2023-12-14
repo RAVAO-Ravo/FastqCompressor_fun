@@ -18,10 +18,10 @@ Le script s'utilise de la façon suivante :
 python3 FastqCompressor.py -i <path> -c -n <int> -r
 ```
 
-- `-i`, `--input`: Chemin vers l'élément à traiter.
-- `-c`, `--compression`: Activer la compression des fichiers (par défaut = True).
-- `-n`, `--rbf`: Nombre de reads par fichier lors de la compression (par défaut = 100).
-- `-r`, `--remove`: Supprimer le fichier/dossier d'origine après la compression/décompression (par défaut = True).
+- `-i`, `--input` : Chemin vers l'élément à traiter.
+- `-c`, `--compression` : Activer la compression des fichiers (par défaut = True).
+- `-n`, `--rbf` : Nombre de reads par fichier lors de la compression (par défaut = 100).
+- `-r`, `--remove` : Supprimer le fichier/dossier d'origine après la compression/décompression (par défaut = True).
 
 ### Exemples d'utilisation
 
